@@ -1,0 +1,34 @@
+{
+  "name": "react-animation-hooks",
+  "version": "1.0.0",
+  "description": "Hooks for animation and transition nodes on mount and demount (e.g., fades, slides).",
+  "source": "index.ts",
+  "main": "index.umd.js",
+  "scripts": {
+    "build": "microbundle",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngokevin/react-animation-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks"
+  ],
+  "author": "Kevin Ngo <kevin@learncoupling.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngokevin/react-animation-hooks/issues"
+  },
+  "homepage": "https://github.com/ngokevin/react-animation-hooks#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.34",
+    "microbundle": "^0.14.1",
+    "react": "^17.0.2",
+    "tsc": "^2.0.3"
+  }
+}

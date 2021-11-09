@@ -1,6 +1,6 @@
 ## react-animation-hooks
 
-Work in progress.
+Hooks for animation and transition nodes on mount and demount (e.g., fades, slides).
 
 ```jsx
 import {useFadeIn, useSlideUp} from 'react-animation-hooks';
