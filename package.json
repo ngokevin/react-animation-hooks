@@ -1,6 +1,6 @@
 {
   "name": "react-animation-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hooks for animation and transition nodes on mount and demount (e.g., fades, slides).",
   "source": "index.ts",
   "main": "index.umd.js",
