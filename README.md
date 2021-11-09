@@ -45,6 +45,7 @@ Helper hooks are provided that derive from `useAnimate`:
 - `useSlideUp (opts)`
 - `useSlideDown (opts)`
 - `useSlideLeft (opts)`
+- `useSlideRight (opts)`
 
 | Option | Description |
 |--------|-------------|
